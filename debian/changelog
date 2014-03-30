@@ -1,4 +1,4 @@
-golang-mqtt (0.0~git20130822+c2d0e7c-1) unstable; urgency=low
+golang-huin-mqtt (0.0~git20130822+c2d0e7c-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
 
